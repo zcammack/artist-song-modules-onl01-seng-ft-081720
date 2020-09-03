@@ -1,5 +1,5 @@
 require 'pry'
-
+require 'spec_helper'
 #require_relative '../lib/concerns/findable'
 require_relative '../lib/concerns/memorable'
 #require_relative '../lib/concerns/paramable'
